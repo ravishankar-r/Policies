@@ -1,6 +1,6 @@
 name: Linux_Password_Expiration
 title: InSpec Profile
-maintainer: ravishankar
+maintainer: corestack
 copyright: corestack
 copyright_email: corestack.io
 license: Apache-2.0
