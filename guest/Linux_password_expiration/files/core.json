@@ -1,0 +1,11 @@
+{
+"parameters": {
+    "expiry_days": {
+      "metadata": {
+        "displayName": "Expiry days",
+        "description": "Number of days to check"
+      },
+      "type": "string"
+    }
+  }
+}
