@@ -1,0 +1,7 @@
+{
+"description": "Test AWS ACM Certificate Expiration Check",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Monitoring",
+"resource_type": ["Certificate"]	
+}
