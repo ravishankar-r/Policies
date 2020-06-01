@@ -1,0 +1,7 @@
+{
+"description": "Check AWS RDS Instance public access check",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Monitoring",
+"resource_type": ["DBInstance"]	
+}
