@@ -1,0 +1,7 @@
+{
+"description": "Check AWS Dynamodb table encryption Enabled or not",
+"severity": "medium",
+"classification": "Security",
+"sub_classification": "Application",
+"resource_type": ["Table"]	
+}
