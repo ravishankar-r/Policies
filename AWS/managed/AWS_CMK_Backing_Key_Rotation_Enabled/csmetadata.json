@@ -1,0 +1,7 @@
+{
+"description": "Check AWS CMK Backing Key Rotation Enabled or not",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Data",
+"resource_type": ["Key"]	
+}
