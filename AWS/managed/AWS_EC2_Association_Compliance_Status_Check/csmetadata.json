@@ -1,0 +1,7 @@
+{
+"description": "Check AWS EC2 Association Compliance Status Check",
+"severity": "low",
+"classification": "Operation",
+"sub_classification": "Performance",
+"resource_type": ["Instance"]	
+}
