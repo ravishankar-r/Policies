@@ -1,0 +1,7 @@
+{
+"description": "Check AWS EC2 Patch Compliance Status",
+"severity": "medium",
+"classification": "Operation",
+"sub_classification": "Availability",
+"resource_type": ["Instance"]	
+}
