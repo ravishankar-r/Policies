@@ -1,0 +1,7 @@
+{
+"description": "Check ELB logging enabled or not",
+"severity": "low",
+"classification": "Security",
+"sub_classification": "Logging",
+"resource_type": ["LoadBalancer"]	
+}
