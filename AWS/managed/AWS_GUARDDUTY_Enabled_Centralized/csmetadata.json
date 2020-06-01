@@ -1,0 +1,7 @@
+{
+"description": "Check AWS Guard Duty enabled centralized",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Monitoring",
+"resource_type": ["Detector"]	
+}
