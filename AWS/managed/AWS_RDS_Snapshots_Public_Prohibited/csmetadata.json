@@ -1,0 +1,6 @@
+{
+"description": "Check AWS RDS Snapshots public prohibited",
+"severity": "high",
+"classification": "Others",
+"sub_classification": "Monitoring"
+}
