@@ -1,0 +1,7 @@
+{
+"description": "Check AWS EC2 Instance managed by SSM or not",
+"severity": "medium",
+"classification": "Operation",
+"sub_classification": "Standards",
+"resource_type": ["Instance"]	
+}
