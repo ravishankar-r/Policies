@@ -1,7 +1,7 @@
 {
-"description": "Check AWS IAM passoword meets standard requirements",
+"description": "Test AWS IAM Password Policy",
 "severity": "high",
 "classification": "Security",
-"sub_classification": "Access",
+"sub_classification": "Monitoring",
 "resource_type": ["User"]	
 }
