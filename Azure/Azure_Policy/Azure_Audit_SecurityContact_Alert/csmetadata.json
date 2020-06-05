@@ -1,0 +1,7 @@
+{
+"description": "Check Azure Security Contact Alert",
+"severity": "medium",
+"classification": "Security",
+"sub_classification": "Monitoring",
+"resource_type": ["securityContacts"]	
+}
