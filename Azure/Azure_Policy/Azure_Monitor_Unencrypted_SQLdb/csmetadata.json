@@ -1,0 +1,7 @@
+{
+"description": "Check Azure unencrypted SQLdb policy",
+"severity": "low",
+"classification": "Operation",
+"sub_classification": "Standards",
+"resource_type": ["databases"]	
+}
