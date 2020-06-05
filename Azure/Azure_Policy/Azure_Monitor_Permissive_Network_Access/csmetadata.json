@@ -1,0 +1,7 @@
+{
+"description": "Check Azure Monitor Permissive Network Access Policy",
+"severity": "low",
+"classification": "Security",
+"sub_classification": "Data",
+"resource_type": ["virtualMachines"]	
+}
