@@ -1,0 +1,7 @@
+{
+"description": "Check OS Vulnerabilities",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Application",
+"resource_type": ["virtualMachines"]	
+}
