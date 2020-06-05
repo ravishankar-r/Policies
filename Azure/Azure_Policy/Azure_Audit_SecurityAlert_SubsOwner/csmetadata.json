@@ -1,0 +1,7 @@
+{
+"description": "Check Azure Security Alert Subowner Policy",
+"severity": "high",
+"classification": "Security",
+"sub_classification": "Monitoring",
+"resource_type": ["securityContacts"]	
+}
