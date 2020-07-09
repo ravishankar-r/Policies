@@ -1,7 +1,8 @@
-{
-"description": "Check AWS SQS Encryption",
-"severity": "high",
-"classification": "Security",
-"sub_classification": "Monitoring",
-"resource_type": ["Queue"]	
-}
+ {
+ 	"description": "Check AWS SQS Encryption",
+ 	"severity": "high",
+ 	"classification": "Security",
+ 	"sub_classification": "Monitoring",
+ 	"resource_type": "SQS",
+ 	"service_resource": ["QueuePolicy", "Queues"]
+ }
