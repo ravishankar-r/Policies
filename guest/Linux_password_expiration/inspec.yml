@@ -11,9 +11,8 @@ supports:
 parameters:
   expiry_days:
     type: string
-    "metadata":
-      "displayName": "Expiry days"
-      "description": "Number of days to check"
+    label: "Expiry days"
+    description: "Number of days to check"
   
   
   
