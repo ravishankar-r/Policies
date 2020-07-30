@@ -10,7 +10,7 @@ supports:
   platform: os
 parameters:
   expiry_days:
-    type: string
+    type: number
     label: "Expiry days"
     description: "Number of days to check"
   
