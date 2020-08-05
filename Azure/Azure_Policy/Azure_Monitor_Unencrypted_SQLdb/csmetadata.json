@@ -1,8 +1,9 @@
 {
-"policy_description": "Check Azure unencrypted SQLdb policy",
-  "recommendation_description": "It is recommended to enable encryption for the SQL dbs",
-"severity": "low",
-"classification": "Operation",
-"sub_classification": "Standards",
-"resource_type": ["databases"]	
+	"policy_description": "Check Azure unencrypted SQLdb policy",
+	"recommendation_description": "It is recommended to enable encryption for the SQL dbs",
+	"severity": "low",
+	"classification": "Operation",
+	"sub_classification": "Standards",
+	"resource_type": "Servers",
+	"service_resource": ["MSSQL", "MySQL"]
 }
