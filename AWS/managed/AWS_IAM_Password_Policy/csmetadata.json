@@ -1,5 +1,6 @@
 {
-	"description": "Test AWS IAM Password Policy",
+	"policy_description": "Test AWS IAM Password Policy",
+	"recommendation_description": "It is recommended to create user password matching industrial standards. With a uppercase, lowercase, symbols, digits etc..",
 	"severity": "high",
 	"classification": "Security",
 	"sub_classification": "Monitoring",
